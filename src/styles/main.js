@@ -35,6 +35,7 @@ export const Previous=styled.div`
 export const Current=styled.div`
   color: white;
   font-size: 2.5rem;
+  
 `;
 
 export const Button=styled.div`
