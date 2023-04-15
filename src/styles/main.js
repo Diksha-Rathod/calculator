@@ -19,7 +19,7 @@ export const Screen=styled.div`
   flex-direction:column;
   padding: 18px;
   width: 400px;
-  height:100px;
+  height:80px;
   word-wrap: break-word;
   break-word: break-all;
   text-align: right;
@@ -40,9 +40,9 @@ export const Current=styled.div`
 
 export const Button=styled.div`
   cursor: pointer;
-  font-size: 1rem;
+  font-size: 0.8  rem;
   outline: none;
-  height: 25px;
+  height: 20px;
   border: 1px outset white;
   background-color: rgba(255,255,255,0.75);
   &:hover{
